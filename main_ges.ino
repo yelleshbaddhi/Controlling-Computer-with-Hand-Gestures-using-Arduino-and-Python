@@ -1,13 +1,3 @@
-
-
-/*
- * Program for gesture control VLC Player
- * Controlled uisng Python
- * Code by B.Aswinth Raj
- * Dated: 11-10-2017
- * Website: www.circuitdigest.com
- */
-
 const int trigger1 = 2; //Trigger pin of 1st Sesnor
 const int echo1 = 3; //Echo pin of 1st Sesnor
 const int trigger2 = 4; //Trigger pin of 2nd Sesnor
